@@ -1,4 +1,4 @@
-humbug-test
+zulip-test
 ===========
 
 Test repository
